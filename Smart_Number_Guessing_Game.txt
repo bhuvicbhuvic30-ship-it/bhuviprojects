@@ -1,23 +1,23 @@
-📝 README.md (DETAILED EXPLANATION)
-🎮 Smart Number Guessing Game (Python)
-📖 Project Description
+#📝 README.md (DETAILED EXPLANATION)
+#🎮 Smart Number Guessing Game (Python)
+#📖 Project Description
 
-The Smart Number Guessing Game is a console-based Python application where the player tries to guess a randomly generated number within a limited number of attempts.
-The game includes difficulty levels, an AI-based hint system, and a persistent scoreboard stored in a file.
+#The Smart Number Guessing Game is a console-based Python application where the player tries to guess a randomly generated number within a limited number of attempts.
+#The game includes difficulty levels, an AI-based hint system, and a persistent scoreboard stored in a file.
 
-This project is designed to work in any environment without requiring a graphical display, making it suitable for Linux servers, VS Code, GitHub Codespaces, and Windows.
+#This project is designed to work in any environment without requiring a graphical display, making it suitable for Linux servers, VS Code, GitHub Codespaces, and Windows.
 
-✨ Features
+#✨ Features
 
-🎯 Random number generation
+#🎯 Random number generation
 
-🧠 AI-based intelligent hints
+#🧠 AI-based intelligent hints
 
-📊 Persistent scoreboard using file handling
+#📊 Persistent scoreboard using file handling
 
-🎚 Multiple difficulty levels
+#🎚 Multiple difficulty levels
 
-🔁 Replayable game loop
+#🔁 Replayable game loop
 
 🖥 Console-based (no GUI / no Flask)
 
